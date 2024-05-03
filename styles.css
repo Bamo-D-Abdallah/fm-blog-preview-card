@@ -93,8 +93,12 @@ main {
 
 
 .card_container img {
-    max-width: 30%;
+    max-width: 100%;
     border-radius: 100%;
+}
+
+.card_container .container_image {
+    max-width: 30%;
 }
 
 .card_container h1 {
